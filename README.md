@@ -1,1 +1,2 @@
-# stepic3_6
+# stepik
+Решение задачи для курса на stepik.org
